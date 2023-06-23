@@ -1,3 +1,15 @@
+<h1>
+    Olá, me chamo Bruno, caso tenha alguma dúvida sobre meus códigos pode mandar uma mensagem que vou te ajudar!
+</h1>
+<br>
+<h2>
+    Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
+</h2>
+<br>
+<h2>
+    E também estou cursando Análise e Desenvolvimento de Sistemas na FASM - Faculdade Santa Marcelina.
+</h2>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
