@@ -1,13 +1,13 @@
 <h2 class="text-center" style="text-align:center; color:#353615;">
      Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ✨
 </h2>
-<h4 class="text-center" style="text-align:center; color:#353615;">
+<h3 class="text-center" style="text-align:center; color:#353615;">
     Neste ano pretendo adicionar alguns códigos aqui na plataforma para uso livre, espero que eles sejam úteis para vocês!
-</h4>
-<h5>
-     Caso tenham interesse de verem alguns de meus outros projetos focados em mobile:<br />
+</h3>
+<h4>
+     Caso tenham interesse em ver alguns de meus outros projetos focados em mobile:<br />
      https://expo.dev/@devilusion
-</h5>
+</h4>
 <hr>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
