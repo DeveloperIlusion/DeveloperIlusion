@@ -1,14 +1,15 @@
-<h2 class="my-auto mx-auto text-center">
+<h2 class="text-center">
     Olá, caso tenha alguma dúvida sobre meus códigos, entre em contato que irei te auxiliar!
 </h2>
 <hr>
-<h4 class="my-auto mx-auto text-center">
+<h4 class="text-center">
     Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
 </h4>
 <hr>
-<h4 class="my-auto mx-auto text-center">
+<h4 class="text-center">
     E também estou cursando Análise e Desenvolvimento de Sistemas na FASM - Faculdade Santa Marcelina.
 </h4>
+<hr>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
 <!--
