@@ -1,11 +1,11 @@
 <h2>
-    Olá, caso tenha alguma dúvida sobre meus códigos pode mandar uma mensagem que vou te ajudar!
+    Olá, caso tenha alguma dúvida sobre meus códigos, entre em contato que irei te auxiliar!
 </h2>
-<br>
+<hr>
 <h4>
     Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
 </h4>
-<br>
+<hr>
 <h4>
     E também estou cursando Análise e Desenvolvimento de Sistemas na FASM - Faculdade Santa Marcelina.
 </h4>
