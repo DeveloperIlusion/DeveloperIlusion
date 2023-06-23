@@ -1,12 +1,8 @@
 <h2 class="text-center">
-    Olá, caso tenha alguma dúvida sobre meus códigos, entre em contato que irei te auxiliar!
+     Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ⭐
 </h2>
 <h4 class="text-center">
-    Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
-</h4>
-<hr>
-<h4 class="text-center">
-    E também estou cursando Análise e Desenvolvimento de Sistemas na FASM - Faculdade Santa Marcelina.
+    Neste ano pretendo adicionar alguns códigos aqui na plataforma para uso livre, espero que eles sejam úteis para vocês!
 </h4>
 <hr>
 
