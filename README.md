@@ -1,12 +1,12 @@
-<h2>
+<h2 class="my-auto mx-auto text-center">
     Olá, caso tenha alguma dúvida sobre meus códigos, entre em contato que irei te auxiliar!
 </h2>
 <hr>
-<h4>
+<h4 class="my-auto mx-auto text-center">
     Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
 </h4>
 <hr>
-<h4>
+<h4 class="my-auto mx-auto text-center">
     E também estou cursando Análise e Desenvolvimento de Sistemas na FASM - Faculdade Santa Marcelina.
 </h4>
 
