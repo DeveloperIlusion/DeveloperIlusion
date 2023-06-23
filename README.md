@@ -1,5 +1,5 @@
 <h2 class="text-center" style="text-align:center; color:#353615;">
-     Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ⭐
+     Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ✨
 </h2>
 <h4 class="text-center" style="text-align:center; color:#353615;">
     Neste ano pretendo adicionar alguns códigos aqui na plataforma para uso livre, espero que eles sejam úteis para vocês!
