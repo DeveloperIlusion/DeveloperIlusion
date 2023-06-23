@@ -1,14 +1,14 @@
-<h1>
-    Olá, me chamo Bruno, caso tenha alguma dúvida sobre meus códigos pode mandar uma mensagem que vou te ajudar!
-</h1>
-<br>
 <h2>
+    Olá, caso tenha alguma dúvida sobre meus códigos pode mandar uma mensagem que vou te ajudar!
+</h2>
+<br>
+<h4>
     Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
-</h2>
+</h4>
 <br>
-<h2>
+<h4>
     E também estou cursando Análise e Desenvolvimento de Sistemas na FASM - Faculdade Santa Marcelina.
-</h2>
+</h4>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
 <!--
