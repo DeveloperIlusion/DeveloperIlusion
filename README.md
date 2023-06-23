@@ -4,10 +4,10 @@
 <h3 class="text-center" style="text-align:center; color:#353615;">
     Neste ano pretendo adicionar alguns códigos aqui na plataforma para uso livre, espero que eles sejam úteis para vocês!
 </h3>
-<h4>
+<h3>
      Caso tenham interesse em ver alguns de meus outros projetos focados em mobile:<br />
      https://expo.dev/@devilusion
-</h4>
+</h3>
 <hr>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
