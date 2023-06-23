@@ -1,7 +1,7 @@
-<h2 class="text-center">
+<h2 class="text-center" style="text-align=center; color=#353615;">
      Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ⭐
 </h2>
-<h4 class="text-center">
+<h4 class="text-center" style="text-align=center; color=#353615;">
     Neste ano pretendo adicionar alguns códigos aqui na plataforma para uso livre, espero que eles sejam úteis para vocês!
 </h4>
 <hr>
@@ -11,13 +11,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
 -->
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **DeveloperIlusion/DeveloperIlusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
