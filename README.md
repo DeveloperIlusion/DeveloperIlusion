@@ -1,7 +1,6 @@
 <h2 class="text-center">
     Olá, caso tenha alguma dúvida sobre meus códigos, entre em contato que irei te auxiliar!
 </h2>
-<hr>
 <h4 class="text-center">
     Atualmente estou tabalhando como um Developer FullStack na UP: Assistência Familiar.
 </h4>
