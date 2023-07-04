@@ -1,7 +1,3 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-
-<div class="container">
-
 <h2 class="text-center" style="text-align:center; color:#353615;">
      Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ✨
 </h2>
@@ -14,11 +10,7 @@
 </h4>
 <hr>
 
-<button class="btn btn-danger" href="https://expo.dev/@devilusion">Expo</button>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
-
-</div>
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
 -->
