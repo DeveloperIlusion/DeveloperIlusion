@@ -5,8 +5,7 @@
     Neste ano pretendo adicionar alguns códigos aqui na plataforma para uso livre, espero que eles sejam úteis para vocês!
 </h4>
 <h4>
-     Caso tenham interesse em ver alguns de meus outros projetos focados em mobile:<br />
-     https://expo.dev/@devilusion
+     Caso tenham interesse em ver alguns de meus outros projetos focados em mobile: https://expo.dev/@devilusion
 </h4>
 <hr>
 
