@@ -4,15 +4,12 @@
       <style>
         .container {
           background-color: black;
-
           width: 100%;
           height: 300px;
-
           display: flex;
           justify-content: center;
           align-items: center;
           color: white;
-
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
     </style>
@@ -27,7 +24,6 @@
              Caso tenham interesse em ver alguns de meus outros projetos focados em mobile: https://expo.dev/@devilusion
         </h4>
         <hr>
-        
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIlusion&layout=compact&theme=dark"/>
         <!--
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
@@ -40,7 +36,6 @@
         ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
         ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=openjdk&logoColor=ED1D25)
         ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
- 
       </div>
     </div>
   </foreignObject>
