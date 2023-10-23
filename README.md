@@ -1,3 +1,7 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
 <h2 class="text-center" style="text-align:center; color:#f50743;">
      Sinta-se livre para entrar em contato caso tenha alguma dúvida sobre meus códigos! ✨
 </h2>
@@ -24,17 +28,6 @@
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=openjdk&logoColor=ED1D25)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
-<!--
-**DeveloperIlusion/DeveloperIlusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
+  </foreignObject>
+</svg>
