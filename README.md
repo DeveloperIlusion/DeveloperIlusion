@@ -2,17 +2,32 @@
   <table style="border: collapse;">
     <tr style="border: none;">
       <td style="border: none;">
-       <h3 width=50% style="text-align: left;">
-          Hello, I'm Bruno Cassiano, and am actually
-          working as an <b>Full Stack Developer</b>
-          since 2022/12/05.
-          I really love computer science
-          and expect to someday be developing an AI!!
-        </h3>
-        <h3 width=50% style="text-align: left;">
-          If you have any doubts about me or my codes,
-          feel free to ask, it'll be a pleasure to help!
-        </h3>
+       <h2>
+          Bruno Cassiano
+       </h2>
+       <p align="justify">
+          I am an <b>Full Stack Developer</b> from <b>Muriaé/MG</b>, <b>Brazil</b>, and I've been working as a programmer since 2022/12/05.
+          Graduated in 2023/12 as an Analyst and Developer of Systems at 
+          <a href="https://www.santamarcelina.edu.br/faculdade/muriae/">FASM - Falcudade Santa Marcelina.</a>
+        </p>
+        <p align="justify">
+          Programming is my passion and I'm aiming to someday work as an AI developer!
+          Also, content creation is my hobby, and I'm pretending to start making
+          some code related posts on instagram and Linkedin, you're welcome to stop by!
+        </p>
+        <br/>
+        <div align="center">
+          <a href="https://www.instagram.com/bruno_deluca_cassiano">
+            <img align="center" src="https://img.shields.io/badge/Instagram-991b30?style=for-the-badge&logo=instagram&logoColor=white"/>
+          </a>
+          <a href="https://www.linkedin.com/in/bruno-deluca-satil-cassiano/">
+            <img align="center" src="https://img.shields.io/badge/Linkedin-991b30?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
+        </div>
+        <br/>
+        <p align="justify">
+          If you have any doubts about me or my codes, feel free to ask, it'll be a pleasure to help!
+        </p>
       </td>
       <td width=50% style="border: none;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -61,7 +76,7 @@
 
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=DeveloperIlusion&theme=transparent&bg_color=991b30&border_color=fff&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=DeveloperIlusion&theme=transparent&bg_color=991b30&border_color=fff&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=991b30&border_color=fff&title_color=fff&text_color=fff"/>
