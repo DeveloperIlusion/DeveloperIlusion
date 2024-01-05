@@ -82,3 +82,10 @@
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=991b30&border_color=fff&title_color=fff&text_color=fff"/>
   </a>
 </section>
+
+<details align="left">
+  <summary></summary>
+    - Badges by <a href="https://shields.io/">shields.io</a><br>
+    - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+    - An special thanks for <a href="https://github.com/elidianaandrade">@elidianaandrade</a>, the teacher who made me learn a lot about GitHub. 
+</details>
