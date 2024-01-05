@@ -42,7 +42,7 @@
 
 <section align="center">
   <h3 style="color:f50743;">
-       For now, these are the languages that I'm studying and using on work:
+       For now, these are the languages that I'm studying and using at work:
   </h3>
   <div>
     <a href="https://github.com/anuraghazra/convoychat">
@@ -85,7 +85,7 @@
 
 <details align="left">
   <summary></summary>
-    - Badges by <a href="https://shields.io/">shields.io</a><br>
-    - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+    - Badges by <a href="https://shields.io/">shields.io</a><br/>
+    - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br/>
     - An special thanks for <a href="https://github.com/elidianaandrade">@elidianaandrade</a>, the teacher who made me learn a lot about GitHub. 
 </details>
