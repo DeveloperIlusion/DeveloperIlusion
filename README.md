@@ -3,7 +3,7 @@
     <tr style="border: none;">
       <td style="border: none;">
        <h2>
-          Bruno Cassiano
+          Systems Analyst and Developer
        </h2>
        <p align="justify">
           I am an <b>Full Stack Developer</b> from <b>Muriaé/MG</b>, <b>Brazil</b>, and I've been working as a programmer since 2022/12/05.
@@ -15,7 +15,6 @@
           Also, <b>content creation is my hobby</b>, and I'm pretending to start making
           some code related posts on Instagram and Linkedin, you're welcome to stop by!
         </p>
-        <br/>
         <div align="center">
           <a href="https://www.instagram.com/bruno_deluca_cassiano">
             <img align="center" src="https://img.shields.io/badge/Instagram-991b30?style=for-the-badge&logo=instagram&logoColor=white"/>
